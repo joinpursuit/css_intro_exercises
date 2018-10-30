@@ -1,0 +1,55 @@
+
+
+h1 {
+  font-family: cursive;
+  font-weight: bold;
+  color: #245bb5;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+ul#links {
+  list-style: none;
+}
+
+body {
+  background: linear-gradient(to bottom right, white, #245bb5, grey);
+}
+
+ol {
+  font-weight: bold;
+}
+
+li {
+  list-style-position: inside;
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 10px;
+  color: blue;
+  background: lightpink;
+}
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+a {
+  text-decoration: underline;
+  color: white;
+  font-family: monospace;
+}
+
+a:hover {
+  color: yellow;
+}
+
+img:hover {
+  opacity: 0.8;
+}
+
+* {
+ font-family: sans-serif !important; 
+}
