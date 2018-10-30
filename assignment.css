@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah");
+
+body {
+  background-image: linear-gradient(to bottom right, #015999, #23d8ef);
+}
+
+h1 {
+  text-shadow: -1px 0 black, 0 3px black, 3px 0 black, 0 -1px black;
+  color: #ffd702;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 80px;
+}
+
+#hobbies {
+  text-shadow: -1px 0 black, 0 3px black, 3px 0 black, 0 -1px black;
+  color: #ffd702;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 30px;
+}
+
+h3 {
+  text-shadow: -1px 0 black, 0 3px black, 3px 0 black, 0 -1px black;
+  color: white;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: #cd2a22;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 20px;
+}
+
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  color: #cd2a22;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 20px;
+}
+
+li {
+  color: #cd2a22;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 15px;
+}
+
+img {
+  display: block;
+  margin: auto auto;
+  height: 25%;
+  width: 25%;
+}
+
+#bug {
+  color: #cd2a22;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 15px;
+}
+
+h2 {
+  color: #ffd702;
+  text-shadow: -1px 0 black, 0 3px black, 3px 0 black, 0 -1px black;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+#email {
+  color: #cd2a22;
+  text-align: center;
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 15px;
+}
