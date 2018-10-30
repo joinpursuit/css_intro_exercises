@@ -1,0 +1,37 @@
+#bod {
+  background-image: linear-gradient(cyan, purple);
+}
+* {
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 40px;
+  font-family: monospace;
+  text-align: center;
+  color: red;
+}
+
+ul {
+  list-style: none;
+}
+ol {
+  font-weight: bold;
+  list-style: none;
+}
+
+li {
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 10px;
+  color: blue;
+  background-color: lightpink;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h3 {
+  text-decoration: underline;
+}
