@@ -1,0 +1,26 @@
+body { background-image: linear-gradient(green, blue);
+        font-family: sans-serif;}
+
+h1 {font-family: monospace;
+    color: #800080}
+
+ul {list-style-type: none;}
+
+ol {font-weight: 550;}
+
+li {
+    text-align: center;
+    border-style: inset;
+    border-color: red;
+    border-radius: 5px;
+    color: blue;
+    background-color: pink;
+    }
+
+IMG.picture {
+        display: block;
+        margin-left: auto;
+        margin-right: auto }
+
+h3 {text-decoration: underline;
+}
