@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  color: #5F9EA0;
+}
+
+ body{
+   background-image: linear-gradient(to bottom, #ff3300 0%, #66ccff 100%);
+   font-family: sans-serif;
+ }
+
+ul{
+  list-style: none;
+  font-weight: bolder;
+}
+
+li{
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 15px;
+  background-color: #FFB6C1;
+  color: blue;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3{
+  text-decoration: underline;
+}
