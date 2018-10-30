@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(#66ccff, #33ccff);
+  font-family: 'Mali', cursive;
+}
+
+h1 {
+  font: Arial;
+  color: blue;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+ol {
+  font-weight: bold;
+  text-align: center;
+}
+
+li {
+  align-items: center;
+  display: inline-block;
+  border: 1px solid red;
+  border-radius: 25px;
+  color: blue;
+  background-color: lightpink;
+}
+img {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
