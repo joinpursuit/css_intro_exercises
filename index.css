@@ -1,0 +1,42 @@
+body {
+  background-image: radial-gradient(red, purple, blue);
+  font-family: fantasy;
+}
+
+head {
+  font-family: fantasy;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  font-weight: lighter;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+  border: 1px solid red;
+  border-radius: 50%;
+  color: blue;
+  background: lightpink;
+}
+
+img {
+  width: 10px;
+  height: auto;
+}
+
+* {
+  font-family: sans-serif;
+}
