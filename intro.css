@@ -1,0 +1,46 @@
+
+* {
+  all: center;
+}
+
+body {
+  background: linear-gradient(to bottom, #009933 19%, #ff99cc 100%);
+  text-align: center;
+  font-family: Sans-Serif;
+
+}
+
+h1{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  color: green;
+}
+
+ul {
+ list-style-type: none;
+ }
+
+ol {
+  list-style-type: none;
+  font-weight: 600;
+}
+
+li{
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 30% ;
+  color: blue;
+  background-color: lightpink;
+}
+
+img {
+  display: block;
+  height: 300px;
+   width: 300px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+h3 {
+  text-decoration: underline;
+}
