@@ -14,10 +14,12 @@ h3 {
 
 ul {
   list-style-type: none;
+  text-align: center;
 }
 
 ol {
   font-weight: bold;
+  text-align: center;
 }
 
 li {
