@@ -5,6 +5,7 @@
 2. Give your page a background color. Try to make it a gradient. Look it up!
 
 3. Change the font of the name header. Bonus points for importing a font from google fonts.
+https://www.labnol.org/software/google-fonts-on-computer/19780/
 
 4. Change the font color of your name to your favorite color.
 
