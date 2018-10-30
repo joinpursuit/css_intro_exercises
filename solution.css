@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+  background-image: linear-gradient(to right,white,darkgray);
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family:fantasy;
+  color: green;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  font-size: 25px;
+}
+
+li {
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 5px;
+  color:blue;
+  background-color:lightpink;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+}
+
+h3 {
+  text-underline-position:auto;
+}
