@@ -1,10 +1,10 @@
 * {
   background-image: linear-gradient(to right, white, purple);
-  font-family: sans-serif; 
+  font-family: sans-serif;
 }
 
 h1 {
-  font-family: Cedarville Cursive ;
+font-family: 'Cedarville Cursive', cursive;
   color: #660217 ;
   font-size: 40px;
 }
