@@ -1,0 +1,49 @@
+body {
+  background: #abbaab; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffffff,
+    #abbaab
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffffff,
+    #abbaab
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
+  font-family: "Eczar", sans-serif;
+  color: cornflowerblue;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  font-weight: bold;
+}
+
+li {
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 20%;
+  color: blue;
+  background-color: lightpink;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h3 {
+  text-decoration: underline;
+}
