@@ -1,0 +1,46 @@
+
+/* Jonathan Erquinigo */
+
+html{
+  /* background-color:#99ffff; */
+  background-image: linear-gradient(red, yellow);
+  font-family: sans-serif;
+}
+
+h1{
+  font-family: 'Poor Story';
+color: pink;
+}
+
+
+ul{
+  list-style-type: none;
+}
+
+ol{
+  font-weight: 900;
+  text-align: center;
+  color: red;
+
+}
+
+li{
+  text-align: center;
+  border: 1px;
+  color: blue;
+
+  border-radius: 5px;
+}
+
+
+img{
+  width: 200px;
+  height: 300px;
+  margin-left: auto;
+ margin-right: auto;
+ display: block;
+}
+
+h3{
+  text-decoration: underline;
+}
