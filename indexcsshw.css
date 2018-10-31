@@ -1,0 +1,44 @@
+* {
+  background: linear-gradient(90deg, #e7a1b0, #c36241);
+  font-style: sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+  color: #d2b9d3;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  font-weight: 190;
+  list-style-position: inside;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+#list-box {
+  text-align: center;
+  border: 1px solid red;
+  color: #b4cfec;
+  background: #fbbbb9;
+  border-radius: 20px;
+  padding: 10px;
+}
+#list-box li {
+  color: #b4cfec;
+  background: #fbbbb9;
+}
+
+img {
+  width: 600px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
