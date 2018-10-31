@@ -1,4 +1,4 @@
-# CSS Intro Assignment
+# CSS Intro Assignment 
 
 1. Create a CSS file and connect it in your index.html. Hint: link.
 
