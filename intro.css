@@ -1,0 +1,37 @@
+
+body {
+  font-family: sans-serif;
+  background: #3D7EAA;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFE47A, #3D7EAA);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFE47A, #3D7EAA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+}
+
+img {
+  width: 700px;
+}
+h1 {
+  /* font-family: Baloo Bhaijaan; */
+  font-weight: 800;
+  color: navy;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  font-weight: bold;
+  list-style-position: inside;
+}
+
+li {
+  border: 1px solid red;
+  border-radius: 10px;
+  color: blue;
+  background: lightpink;
+}
+
+h3 {
+  text-decoration: underline;
+}
