@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Poor+Story");
+
+body {
+    background: -webkit-linear-gradient(left, #4c4c4c 0%,#595959 12%,#666666 25%,#474747 35%,#2c2c2c 44%,#000000 55%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);
+    text-align: center;
+}
+
+
+h1 {
+  color: #FFFCFC;
+  text-align: center;
+  font-family: "Lucida";
+  text-align: center;
+  font-size: 90px
+}
+
+
+h2 {
+  color: #FFFCFC;
+  text-align: center;
+}
+
+
+h3 {
+  color: #FFFCFC;
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+p {
+  color: #FFFCFC;
+}
+
+
+ul {
+  list-style: none;
+  text-align: center;
+  color: #FFFCFC;
+}
+
+
+ol {
+  font-weight: lighter;
+  text-align: center;
+  color: #FFFCFC;
+}
+
+
+img {
+  border-radius: 15px;
+  width: 800px;
+  height: 500px;
+}
+
+.boxes {
+  text-align: center;
+  display: block;
+  margin: auto auto;
+}
+
+div {
+  border: 5px solid gray;
+  margin: 10px;
+  width: 350px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: gray;
+  text-align: center;
+}
+
+#list-box {
+  background: black;
+  margin: 20px;
+  padding: 20px;
+}
