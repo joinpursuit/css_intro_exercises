@@ -1,32 +1,74 @@
 html {
-  background-image: radial-gradient(#D3D3D3 50%, #000000);
+
+}
+
+@font-face {
+  font-family: TheBlacklist;
+  src: url("/home/nibblybits/Fonts/TheBlacklist.woff")format("woff");
 }
 
 body {
-  /* background-color: #D3D3D3; */
+  margin: auto;
+  background-color: #D3D3D3;
+  height: 100%;
+  width: auto;
+  /* -webkit-box-shadow: inset 0 0 40px 20px #000000; */
+  box-shadow: inset 0 0 150px 40px #330019;
   padding: 30px;
 }
 
 h1 {
-  /* font styles don't work on my Chromebook. TToTT */
+  margin-top: 5%;
   font-family: serif;
   text-align: center;
 
+}
+
+.not_name {
+  text-align: center;
+  font-family: TheBlacklist;
+  font-size: 60px;
+  font-weight: 400;
+}
+
+.not_me p {
+  margin: auto;
+  margin-bottom: 20px;
+  width: 40%;
 }
 
 h2, div {
   text-align: center;
 }
 
-h3 {
-  text-decoration: underline;
-  text-decoration-style: solid;
+#skills {
   text-align: center;
+  font-family: TheBlacklist;
+  font-size: 40px;
+  font-weight: 400;
 }
 
-h3#skills {
-  font-size: 28px;
-  font-weight: 400;
+.container {
+  overflow: hidden;
+}
+
+
+.skills ul {
+  width: 55%;
+  float: left;
+  margin-bottom: -500em;
+  /* padding-bottom: 500em; */
+}
+
+.skills ol {
+  width: 55%;
+  float: right;
+  margin-bottom: -500em;
+  padding-bottom: 500em;
+}
+
+.clear_float {
+  clear: both;
 }
 
 img {
@@ -54,6 +96,7 @@ li {
   border: 1px solid	#FF69B4;
   border-radius: 5px;
   background: rgba(255, 192, 203, 0.5);
+  transition: color 0.8s ease;
   color: #E6E6FA;
   margin: 0 auto;
   margin-bottom: 3px
@@ -64,10 +107,41 @@ li:hover {
   color: #FF1493;
 }
 
+.bugs {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 p {
-  text-align: center;;
+  text-align: center;
+}
+
+.contact {
+  border-top: dotted;
+  padding-top: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+
+.contact a {
+  color: #FF1493;
+}
+
+.contact a:visited {
+  color: #8B008B;
+}
+
+.other_contact a {
+  color: 	#FF00FF;
 }
 
 form {
+  margin-bottom: 5%;
   text-align: center;
+}
+
+::placeholder {
+  text-align: center;
+  color: 	#FF69B4;
 }
